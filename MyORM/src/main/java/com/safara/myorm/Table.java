@@ -8,6 +8,7 @@ import java.lang.annotation.RetentionPolicy;
  * @author safoura
  */
 
+
 @Retention(RetentionPolicy.RUNTIME)
 public @interface Table {
 
